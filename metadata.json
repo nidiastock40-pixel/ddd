@@ -1,0 +1,7 @@
+{
+  "name": "SocialGrowth SMM Panel",
+  "description": "A high-performance Social Media Marketing panel with automated service fulfillment, real-time analytics, and AI-powered growth strategies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
